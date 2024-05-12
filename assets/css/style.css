@@ -303,14 +303,14 @@ h6 {
   color: #45505b;
 }
 
-#hero p {
+#hero h2 {
   color: #45505b;
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
 
-#hero p span {
+#hero h2 span {
   color: #0563bb;
   letter-spacing: 1px;
 }
@@ -342,7 +342,7 @@ h6 {
     line-height: 36px;
   }
 
-  #hero p {
+  #hero h2 {
     margin-top: 10px;
     font-size: 20px;
     line-height: 24px;
